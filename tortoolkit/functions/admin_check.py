@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-# (c) YashDK [yash-dk@github]
-
 from telethon.tl.functions.channels import GetParticipantRequest
 from telethon.tl.types import ChannelParticipantAdmin,ChannelParticipantCreator,ChannelParticipantsAdmins
 import logging,traceback
