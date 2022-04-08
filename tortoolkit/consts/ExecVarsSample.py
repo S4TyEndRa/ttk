@@ -8,13 +8,13 @@ except:
         API_HASH = "fd7acd07303760c52dcc0ed8b2f73086"
         API_ID = 2171111
         BOT_TOKEN = "5154860805:AAEZs1rWayks2zJF4y1LeYoQb_r7ApDSMBU"
-        BASE_URL_OF_BOT = "http://trntoos.herokuapp.com/"
+        BASE_URL_OF_BOT = "http://trntoos.herokuapp.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001536437727, 1089528685]
+        ALD_USR = []
         OWNER_ID = 1089528685
         
         # Google Drive Index Link should include the base dir also See readme for more info
